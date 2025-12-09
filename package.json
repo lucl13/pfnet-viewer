@@ -1,19 +1,19 @@
 {
-  "name": "protein-viewer",
-  "displayName": "Protein Viewer",
-  "description": "Visualise 3D biological structures in the editor",
+  "name": "pfnet-viewer",
+  "displayName": "PFNet Viewer",
+  "description": "Visualise 3D biological structures in the editor with PFNet annotations. Modified fork of ArianJamasb.Protein Viewer.",
   "version": "0.1.1",
-  "publisher": "ArianJamasb",
+  "publisher": "ChenlinLu",
   "author": {
-    "name": "Arian Jamasb"
+    "name": "Chenlin Lu"
   },
   "icon": "img/logo.png",
   "engines": {
-    "vscode": "^1.62.0"
+    "vscode": "^1.95.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/a-r-j/vscoding-sequence.git"
+    "url": "https://github.com/lucl13/pfnet-viewer.git"
   },
   "license": "MIT",
   "categories": [
@@ -96,6 +96,7 @@
   "devDependencies": {
     "@types/glob": "^7.1.4",
     "@types/mocha": "^9.0.0",
+    "@types/node": "^18.19.130",
     "@types/vscode": "^1.95.0",
     "@typescript-eslint/eslint-plugin": "^5.1.0",
     "@typescript-eslint/parser": "^5.1.0",
@@ -103,7 +104,7 @@
     "eslint": "^8.1.0",
     "glob": "^7.1.7",
     "mocha": "^9.1.3",
-    "typescript": "^4.4.4"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
     "molstar": "^4.8.0",

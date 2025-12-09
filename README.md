@@ -1,13 +1,17 @@
-# VSCoding-Sequence 🧬 🧪 🔬
+# PFNet Viewer 🧬 🧪 🔬
+
+> **Note:** This is a modified fork of the original [Protein Viewer](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) by Arian Jamasb.
 
 <img src="img/logo.png" alt="drawing" width="200"/>
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/ArianJamasb.protein-viewer.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer)
+[![Version](https://vsmarketplacebadge.apphb.com/version/ArianJamasb.protein-viewer.png?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer)
 [![vscode last updated](https://img.shields.io/visual-studio-marketplace/last-updated/ArianJamasb.protein-viewer)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.png)](https://opensource.org/licenses/MIT)
 
-[![vscode downloads](https://img.shields.io/visual-studio-marketplace/i/ArianJamasb.protein-viewer)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ArianJamasb.protein-viewer.svg?color=orange)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer)
-[![Trending-Weekly](https://vsmarketplacebadge.apphb.com/trending-weekly/ArianJamasb.protein-viewer.svg?logo=tinder&logoColor=white&label=trending%20weekly)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) [![Trending-Monthly](https://vsmarketplacebadge.apphb.com/trending-monthly/ArianJamasb.protein-viewer.svg?logo=tinder&logoColor=white&label=monthly)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer)
+[![vscode downloads](https://img.shields.io/visual-studio-marketplace/i/ArianJamasb.protein-viewer)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/ArianJamasb.protein-viewer.png?color=orange)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer)
+[![Trending-Weekly](https://vsmarketplacebadge.apphb.com/trending-weekly/ArianJamasb.protein-viewer.png?logo=tinder&logoColor=white&label=trending%20weekly)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer) [![Trending-Monthly](https://vsmarketplacebadge.apphb.com/trending-monthly/ArianJamasb.protein-viewer.png?logo=tinder&logoColor=white&label=monthly)](https://marketplace.visualstudio.com/items?itemName=ArianJamasb.protein-viewer)
+
+This is a small modified version of [VSCoding Sequence](https://github.com/molstar/VSCoding-Sequence), adapted to visualize PDB files output by [PFNet](https://github.com/glasgowlab/PFNet). The structures include per-residue ΔG/ΔΔG and confidence annotations, enabling interactive analysis directly within the editor.
 
 VSCoding Sequence allows for visualisation of protein structures and molecular data in the editor, courtesy of the fantastic [Mol*](https://molstar.org/)
 
